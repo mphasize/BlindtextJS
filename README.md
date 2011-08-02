@@ -32,7 +32,6 @@ Known Issues
 ------------
 
 - dummy text is cut off really ugly, when the character limit is reached
-- only Lorem Ipsum text available by now, but we would actually like to support different languages
 
 Feedback appreciated!
 ---------------------
