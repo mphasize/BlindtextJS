@@ -17,6 +17,11 @@ So, all you need to do is load our small Javascript and then you can start using
 Done! Yep, it's that easy! ;-) You need more options? Try...
 
 	<blindtext length="500">
+	
+	<blindtext lang="en">
+	
+	<blindtext length="500" lang="de">
+	
 
 Well, BlindtextJS is in the very early stages of development. Which means:
 

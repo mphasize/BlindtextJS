@@ -1,6 +1,6 @@
 var Blindtext = {
 	defaults : {
-		length : 150,
+		length : 250,
 		lang: 'lorem'
 	},
 	samples : {
